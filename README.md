@@ -7,8 +7,8 @@ veri toplama kartı.
 ## Özellikler
 - ADS8861 — 16-bit, 1 MSPS, true-differential SAR ADC
 - THS4551 — Fully-differential ADC sürücü
-- LTC6655 — 2ppm/°C ultra düşük gürültülü voltaj referansı
-- LM7705 — True-zero ölçüm için negatif voltaj pompası
+- LTC6655 — ultra düşük gürültülü voltaj referansı
+- LM7705 — True-zero ölçüm için negatif voltaj regülatörü
 - SPI haberleşme arayüzü
 
 ## Tasarım Kararları
